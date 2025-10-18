@@ -1,0 +1,15 @@
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\ConceptosAvanzados\bin\Debug\net9.0\ConceptosAvanzados.exe
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\ConceptosAvanzados\bin\Debug\net9.0\ConceptosAvanzados.deps.json
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\ConceptosAvanzados\bin\Debug\net9.0\ConceptosAvanzados.runtimeconfig.json
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\ConceptosAvanzados\bin\Debug\net9.0\ConceptosAvanzados.dll
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\ConceptosAvanzados\bin\Debug\net9.0\ConceptosAvanzados.pdb
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\ConceptosAvanzados\obj\Debug\net9.0\ConceptosAvanzados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\ConceptosAvanzados\obj\Debug\net9.0\ConceptosAvanzados.AssemblyInfoInputs.cache
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\ConceptosAvanzados\obj\Debug\net9.0\ConceptosAvanzados.AssemblyInfo.cs
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\ConceptosAvanzados\obj\Debug\net9.0\ConceptosAvanzados.csproj.CoreCompileInputs.cache
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\ConceptosAvanzados\obj\Debug\net9.0\ConceptosAvanzados.sourcelink.json
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\ConceptosAvanzados\obj\Debug\net9.0\ConceptosAvanzados.dll
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\ConceptosAvanzados\obj\Debug\net9.0\refint\ConceptosAvanzados.dll
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\ConceptosAvanzados\obj\Debug\net9.0\ConceptosAvanzados.pdb
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\ConceptosAvanzados\obj\Debug\net9.0\ConceptosAvanzados.genruntimeconfig.cache
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\ConceptosAvanzados\obj\Debug\net9.0\ref\ConceptosAvanzados.dll
