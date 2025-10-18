@@ -1,0 +1,15 @@
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\Clases-Herencia\bin\Debug\net9.0\Clases-Herencia.exe
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\Clases-Herencia\bin\Debug\net9.0\Clases-Herencia.deps.json
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\Clases-Herencia\bin\Debug\net9.0\Clases-Herencia.runtimeconfig.json
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\Clases-Herencia\bin\Debug\net9.0\Clases-Herencia.dll
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\Clases-Herencia\bin\Debug\net9.0\Clases-Herencia.pdb
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\Clases-Herencia\obj\Debug\net9.0\Clases-Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\Clases-Herencia\obj\Debug\net9.0\Clases-Herencia.AssemblyInfoInputs.cache
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\Clases-Herencia\obj\Debug\net9.0\Clases-Herencia.AssemblyInfo.cs
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\Clases-Herencia\obj\Debug\net9.0\Clases-Herencia.csproj.CoreCompileInputs.cache
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\Clases-Herencia\obj\Debug\net9.0\Clases-Herencia.sourcelink.json
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\Clases-Herencia\obj\Debug\net9.0\Clases-Herencia.dll
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\Clases-Herencia\obj\Debug\net9.0\refint\Clases-Herencia.dll
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\Clases-Herencia\obj\Debug\net9.0\Clases-Herencia.pdb
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\Clases-Herencia\obj\Debug\net9.0\Clases-Herencia.genruntimeconfig.cache
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\Clases-Herencia\obj\Debug\net9.0\ref\Clases-Herencia.dll
