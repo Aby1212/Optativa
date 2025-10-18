@@ -1,0 +1,15 @@
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\EjerciciosPracticos\bin\Debug\net9.0\EjerciciosPracticos.exe
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\EjerciciosPracticos\bin\Debug\net9.0\EjerciciosPracticos.deps.json
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\EjerciciosPracticos\bin\Debug\net9.0\EjerciciosPracticos.runtimeconfig.json
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\EjerciciosPracticos\bin\Debug\net9.0\EjerciciosPracticos.dll
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\EjerciciosPracticos\bin\Debug\net9.0\EjerciciosPracticos.pdb
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\EjerciciosPracticos\obj\Debug\net9.0\EjerciciosPracticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\EjerciciosPracticos\obj\Debug\net9.0\EjerciciosPracticos.AssemblyInfoInputs.cache
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\EjerciciosPracticos\obj\Debug\net9.0\EjerciciosPracticos.AssemblyInfo.cs
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\EjerciciosPracticos\obj\Debug\net9.0\EjerciciosPracticos.csproj.CoreCompileInputs.cache
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\EjerciciosPracticos\obj\Debug\net9.0\EjerciciosPracticos.sourcelink.json
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\EjerciciosPracticos\obj\Debug\net9.0\EjerciciosPracticos.dll
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\EjerciciosPracticos\obj\Debug\net9.0\refint\EjerciciosPracticos.dll
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\EjerciciosPracticos\obj\Debug\net9.0\EjerciciosPracticos.pdb
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\EjerciciosPracticos\obj\Debug\net9.0\EjerciciosPracticos.genruntimeconfig.cache
+C:\Users\sarar\Documents\Optativa\CopiaProyecto\EjerciciosPracticos\obj\Debug\net9.0\ref\EjerciciosPracticos.dll
